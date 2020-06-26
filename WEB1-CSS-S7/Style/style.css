@@ -25,3 +25,17 @@ h4 {
     text-transform: capitalize;
     color: turquoise;
 }
+
+/* Propiedades bg */
+
+* {
+    background-color: black;
+}
+#bg {
+    height: 500px;
+	width: 800px;
+	background-color: teal;
+	background-image: url(img/Montaña.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
