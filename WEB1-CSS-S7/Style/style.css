@@ -1,0 +1,18 @@
+/* Propiedades Fonts */ 
+
+h1 {
+    color: cadetblue;
+    font-size: 25px;
+}
+
+#texto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Times, serif;
+    font-size: 20px;
+    font-weight: normal;
+}
