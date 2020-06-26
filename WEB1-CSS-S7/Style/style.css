@@ -1,18 +1,27 @@
 /* Propiedades Fonts */ 
 
+/* Propiedades texto */
+
 h1 {
     color: cadetblue;
     font-size: 25px;
+    text-transform: uppercase;
+
 }
 
 #texto {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
-
+    color: darksalmon;
+    text-align: justify;
+    letter-spacing: 2px;
 }
 
 h4 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Times, serif;
     font-size: 20px;
     font-weight: normal;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: turquoise;
 }
